@@ -1,5 +1,5 @@
 homepage: "https://www.spindl.xyz/"
 documentation: "https://docs.spindl.xyz/"
 versions:
-  - sha: 8ec0fb99b5027fa605870a31322d364ad901f7ab
+  - sha: f17736cdb31dcb4f950f0682a8e3f210085871bc
     changeNotes: Initial release.
